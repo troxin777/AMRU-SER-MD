@@ -46,8 +46,8 @@ global.websitex = "" //ur website to be displayed
 global.botscript = 'https://github.com/AMRUSIR/AMRU-SER-MD' //script link
 global.reactmoji = "🙂" //ur menu react emoji
 global.themeemoji = "😈" //ur theme emoji
-global.packname = "AMRU-SER" //ur sticker watermark packname
-global.author = "AMRU-SER-MD" //ur sticker watermark author
+global.packname = "ɪͥᴛͭsᷤ ᴍͫᴇͤ ⏤͟͞ꪶ 𝑆𝑢𝑓𝑖⁩⁩⁩⁩⁩⁩⁩ꫂ⛧͢" //ur sticker watermark packname
+global.author = "𝐔𝐒𝚺 𝚮𝚺𝚫𝐃𝚸𝚮𝚯𝚴𝚺𝐒" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -56,7 +56,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['919895801205'] //ur premium numbers
+global.premium = ['917510734295'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
